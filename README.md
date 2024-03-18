@@ -12,5 +12,7 @@ __.__HCI Project Figma Link: Hope
 📓 Download my Resume here: [Download my Resume here](https://github.com/Bhaktipalkar/Bhaktipalkar/blob/main/Resume_Bhakti_Palkar.pdf)
   
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bhaktipalkar)](https://git.io/streak-stats)
+
 
 [![Bhakti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhaktipalkar)](https://github.com/Bhaktipalkar/github-readme-stats)
