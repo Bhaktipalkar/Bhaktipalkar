@@ -3,7 +3,7 @@
 I am a Software Engineer with a passion for creating web and mobile applications, as well as UI/UX design. I excel in Java, React, JavaScript, Python, XML, Node.js, Figma, and SQL, and I am eager to learn new languages and technologies to expand my skills in software development, data science, and analytics.
 
 
-- Portfolio Website: [Portfolio](https://bhakti0209.wixsite.com/mysite)  
+- **Portfolio Website:** [Portfolio](https://bhakti0209.wixsite.com/mysite)  
 - **Capstone Project:** [MaidEase](https://github.com/Bhaktipalkar/Maid-Ease)  
 - **UI/UX Project Website:** [To-Do-App](https://github.com/Bhaktipalkar/ToDoApplication)  
 - **HCI Project Figma Link:**   
