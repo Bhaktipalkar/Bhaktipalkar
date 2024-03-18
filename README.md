@@ -6,7 +6,7 @@ I am a Software Engineer with a passion for creating web and mobile applications
 - Portfolio Website: [Portfolio](https://bhakti0209.wixsite.com/mysite)  
 - **Capstone Project:** [MaidEase](https://github.com/Bhaktipalkar/Maid-Ease)  
 - **UI/UX Project Website:** [To-Do-App](https://github.com/Bhaktipalkar/ToDoApplication)  
-- **HCI Project Figma Link:** Hope  
+- **HCI Project Figma Link:**   
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhakti-palkar/)  
 - 🤔 I’m looking for a Full-time/Internship opportunity.  
 - 📓 Download my Resume here: [Download my Resume here](https://github.com/Bhaktipalkar/Bhaktipalkar/blob/main/Resume_Bhakti_Palkar.pdf)  
