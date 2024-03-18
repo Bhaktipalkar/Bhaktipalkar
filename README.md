@@ -10,4 +10,5 @@ __.__HCI Project Figma Link: Hope
 📫How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bhakti-palkar/)  
   
 🤔 I’m looking for Full-time/Internship opportunity.  
-📓 Download my Resume here: Vidisha Vijay Sawant Resume  
+📓 Download my Resume here: [Download my Resume here](https://github.com/Bhaktipalkar/Bhaktipalkar/blob/main/Resume_Bhakti_Palkar.pdf)
+  
