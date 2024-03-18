@@ -11,3 +11,6 @@ __.__HCI Project Figma Link: Hope
 🤔 I’m looking for Full-time/Internship opportunity.  
 📓 Download my Resume here: [Download my Resume here](https://github.com/Bhaktipalkar/Bhaktipalkar/blob/main/Resume_Bhakti_Palkar.pdf)
   
+
+
+[![Bhakti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhaktipalkar)](https://github.com/Bhaktipalkar/github-readme-stats)
